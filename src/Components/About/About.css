@@ -103,8 +103,7 @@
   background-size: 300px, 300px;
 
   border-radius: 10px;
-  background-image: linear-gradient(var(--overlay), var(--overlay)),
-    url("../../Resources/images/avatar.jpg");
+  background-image: linear-gradient(var(--overlay), var(--overlay)), url("");
 }
 
 .school {

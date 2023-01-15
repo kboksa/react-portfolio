@@ -28,7 +28,7 @@ const About = () => {
             Currently I'm a student at{" "}
             <a
               className="school"
-              href="https://bootcamp.berkeley.edu/coding/"
+              href="https://www.northwestern.edu/academics/graduate-a-to-z.html#m"
               target="_blank"
               rel="noreferrer"
             >

@@ -28,22 +28,14 @@ const Work = () => {
                 linkGithub="https://github.com/siennameow/git-productive"
               />
             </Col>
+
             <Col md={4} className="project-card">
               <ProjectCard
-                imgPath={techship}
-                title="Techship"
-                description="A full-stack tech blog site with Star Wars theme."
-                linkApp="https://techship.herokuapp.com/"
-                linkGithub="https://github.com/siennameow/tech-blog"
-              />
-            </Col>
-            <Col md={4} className="project-card">
-              <ProjectCard
-                imgPath={dream}
-                title="Dreamcatcher"
+                imgPath={book - search}
+                title="Book-search"
                 description="A code editor app that can be downloaded and used offline."
-                linkApp=""
-                linkGithub=""
+                linkApp="https://books.herokuapp.com/"
+                linkGithub="https://github.com/kboksa/book-search"
               />
             </Col>
             <Col md={4} className="project-card">
