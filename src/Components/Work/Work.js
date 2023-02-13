@@ -31,7 +31,7 @@ const Work = () => {
 
             <Col md={4} className="project-card">
               <ProjectCard
-                imgPath={book - search}
+                // imgPath={book - search}
                 title="Book-search"
                 description="A code editor app that can be downloaded and used offline."
                 linkApp="https://books.herokuapp.com/"
