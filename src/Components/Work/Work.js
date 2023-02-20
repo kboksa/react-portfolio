@@ -5,8 +5,8 @@ import ProjectCard from "./ProjectCard";
 import { Container, Row, Col } from "react-bootstrap";
 import gitpro from "../../Resources/images/gitpro.png";
 import weather from "../../Resources/images/weather.png";
-import techship from "../../Resources/images/techship.png";
-import dream from "../../Resources/images/dream.png";
+// import techship from "../../Resources/images/techship.png";
+// import dream from "../../Resources/images/dream.png";
 import portfolio from "../../Resources/images/portfolio.png";
 import codequiz from "../../Resources/images/codequiz.png";
 const Work = () => {
