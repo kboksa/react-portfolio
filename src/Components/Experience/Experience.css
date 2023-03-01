@@ -65,6 +65,7 @@
 }
 .technologies li {
   padding-bottom: 10px;
+  margin-left: 50px;
 }
 .technologies li::before {
   content: "\25AA";

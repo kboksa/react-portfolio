@@ -9,7 +9,7 @@ const Footer = [
   },
 
   {
-    link: "https://www.linkedin.com/in/kalina-boksa/",
+    link: "https://www.linkedin.com/in/kalina-boksa-103422190/",
     icon: LINKEDIN,
   },
 ];
