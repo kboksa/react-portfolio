@@ -14,14 +14,14 @@ const About = () => {
             <h1>About Me</h1>
           </div>
           <p>
-            Hello there! I'm Kalina Boksa! I'm a web developer and designer
-            based in Chicago Area.I graduted from the University of Iowa in May
-            of 2020 with a B.A. in Health and Human Physiology.
+            My name is Kalina Boksa and I'm a web developer and designer based
+            in the Chicago Area.I graduted from the University of Iowa in May of
+            2020 with a B.A. in Health and Human Physiology.
             <br />⠀
           </p>
+          I am looking for a career change in web development and completed A
+          certificate in Fullstack web development.
           <p>
-            Having spent , I've finally found my passion at the web design and
-            technology. I'm an exceptionally creative designer.
             <br />⠀
           </p>
           <p>
